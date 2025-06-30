@@ -1,3 +1,10 @@
-"scripts": {
-  "test": "echo \"No real tests yet\" && exit 0"
+{
+  "name": "sample-ci-cd-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"No tests configured yet\""
+  },
+  "dependencies": {}
 }
+
